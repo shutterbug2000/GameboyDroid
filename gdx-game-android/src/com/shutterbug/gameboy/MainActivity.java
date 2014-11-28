@@ -1,4 +1,4 @@
-package com.mycompany.mygame2;
+package com.shutterbug.gameboy;
 
 import android.os.Bundle;
 
